@@ -3,6 +3,7 @@
 This repository contains the basic configuration to run Symfony applications with MySQL database
 
 ## Content
+- Nginx container running version 1.19
 - PHP container running version 8.1.1
 - MySQL container running version 8.0.26
 
