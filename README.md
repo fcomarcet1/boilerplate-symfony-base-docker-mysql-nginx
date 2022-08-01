@@ -1,6 +1,6 @@
 # Symfony Base Repository
 
-This repository contains the basic configuration to run Symfony applications with MySQL database
+This repository contains the basic configuration to run Symfony applications in docker with MySQL database and Nginx
 
 ## Content
 - Nginx container running version 1.19
